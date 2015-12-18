@@ -6,7 +6,7 @@
   <packagedElement xmi:type="uml:Interface" xmi:id="_urlHMHvAEeWS1saYAqqsYw" name="Interface1"/>
   <packagedElement xmi:type="uml:Usage" xmi:id="_vx1koHvAEeWS1saYAqqsYw" client="_uOXmwHvAEeWS1saYAqqsYw" supplier="_urlHMHvAEeWS1saYAqqsYw"/>
   <packagedElement xmi:type="uml:Package" xmi:id="_ues5cKWcEeWAHvVpzb6p2A" name="Test Package1">
-    <packagedElement xmi:type="uml:Class" xmi:id="_vH1WAKWcEeWAHvVpzb6p2A" name="Class1">
+    <packagedElement xmi:type="uml:Class" xmi:id="_vH1WAKWcEeWAHvVpzb6p2A" name="ClassName">
       <ownedAttribute xmi:id="_viq34KWcEeWAHvVpzb6p2A" name="name">
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_vi0B0KWcEeWAHvVpzb6p2A"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_vi3sMKWcEeWAHvVpzb6p2A" value="1"/>
